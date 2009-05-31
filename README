@@ -1,0 +1,7 @@
+#chuleta
+
+1. git pull origin master / sincronizar todos los cambios
+2. git add <archivos modificados> 
+3. git commit -m "comentario del cambio"
+4. git push origin master / llevarlo a la madre
+
