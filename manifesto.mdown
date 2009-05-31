@@ -1,0 +1,22 @@
+# Manifesto
+
+>[OpenDataPolicyRecommendation](http://wiki.opengovdata.org/index.php/OpenDataPolicyRecommendation)
+
+La información generada por la Administración Pública se considera abierta si respeta los siguientes principios:
+
+1. **La información debe ser completa**: toda la información publica ha de estar disponible. La información pública es toda aquella información que no está sujeta a los límites impuestos por ley de privacidad, seguridad o de privilegios o derechos privados. Toda información o recursos que esten todavía representados en soporte físico deben ser incorporados en medios digitales.
+2. **La información debe estar disponible en su estado original**: la información debe publicarse con el nivel más fino de granularidad, sin apenas ninguna intervención que pervierta su estructura original. Por ejemplo, los videos o audio que se publican acaban publicándose en baja resolución, es decir, en lugar de "low cost", "low data", que impiden un uso profesional del mismo por terceros.
+3. **La información debe ser oportuna**: la información debe estar disponible tan rápido sea necesario. Este apartado resume la cuestión de los calendarios o plazos de entrega de la información. Según la naturaleza de la información debe cumplir con unas fechas límite de publicación. Seguir el lema *Better late than never* (más tarde que nunca).
+4. **La información ha de ser accesible**: para el máximo número de personas con el máximo número de propósitos.
+5. **La información ha de ser procesada por las máquinas**: estructurada para poder ser accesible para cualquier aplicación. 
+6. **El acceso a la información ha de ser anónima**: incluidos los proxies anónimos. La información no debe estar enjaulada y que sólo pueda ser accesible para un tipo específico de usuarios.
+7. **El formato de la información ha de ser libre**: y por lo tanto no propietaria o cautiva de herramientas específicas, luego la información ha de poder ser compartida y usable en el tiempo.
+8. **La información debe estar bajo una licencia libre**: no estar sujeta a copyrights, patentes o marcas registradas. 
+
+## Unidad de trabajo
+
+* Una figura técnica dedicada a responder a las necesidades de las personas que intenten usar la información
+* Un figura técnica dedicada a responder a posibles violaciones de los ocho principios por parte de la Administración
+* Un figura jurídica que vigile la aplicación apropiada de estos ocho principios
+* Una figura que dinamice, publique y promocione el uso de la información a través de un espacio abierto a la ciudadanía.
+* Una fgura que gestione la formación de todo aquello que gire alrededor del acceso, tratamiento, publicación, manipulación y remezcla de la información pública
